@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.671453
+  lightness: 0.203547
+  rhythmicContrast: 0.571791
+  saturation: 0.159628
+cta: {}
+layout_spectrum: 0.023649
+name: coinkit
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.798986
