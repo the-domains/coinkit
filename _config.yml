@@ -7,9 +7,9 @@ color:
     - '#3A6EA5'
     - '#004E98'
   brandStrength: 0.671453
-  lightness: 0.203547
+  lightness: 0.540541
   rhythmicContrast: 0.571791
-  saturation: 0.159628
+  saturation: 0.493243
 cta: {}
 layout_spectrum: 0.289696
 name: CoinKit
